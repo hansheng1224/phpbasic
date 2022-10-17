@@ -41,9 +41,9 @@
 
     <h2>練習</h2>
     <ul>
-        <li><a href="./prac01.php" target: _blank >練習一：</a></li>
-        <li><a href="./prac02.php" target:_balnk>練習二：</a></li>
-        <li><a href="">練習三：</a></li>
+        <li><a href="./prac01.php" target: _blank >練習一：</a>計算間隔練習</li>
+        <li><a href="./prac02.php" target:_balnk>練習二：</a>計算自己的生日還有幾天</li>
+        <li><a href="prac03.php">練習三：</a></li>
         <li><a href="">練習四：</a></li>
         <li><a href="">練習五：</a></li>
     </ul>
