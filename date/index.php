@@ -43,8 +43,8 @@
     <ul>
         <li><a href="./prac01.php" target: _blank >練習一：</a>計算間隔練習</li>
         <li><a href="./prac02.php" target:_balnk>練習二：</a>計算自己的生日還有幾天</li>
-        <li><a href="prac03.php">練習三：</a></li>
-        <li><a href="">練習四：</a></li>
+        <li><a href="prac03.php">練習三：利用date()函式的格式化參數，完成以下的日期格式呈現</a></li>
+        <li><a href="prac04.php">練習四：利用迴圈來計算連續五個週一的日期</a></li>
         <li><a href="">練習五：</a></li>
     </ul>
 </body>
