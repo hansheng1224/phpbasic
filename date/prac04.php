@@ -6,7 +6,10 @@
 
 <?php
 
-$w=date("w");
+$w=(date('w')==0?7:date('w'));
+
+
+// $w=date("w");
 $diff=1-$w;
 echo (1-1)."<br>";
 echo (1-2)."<br>";
